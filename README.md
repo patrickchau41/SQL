@@ -1,4 +1,4 @@
-# SQL Projects Portfolio
+# SQL Portflio Projects
 
 A collection of SQL projects showcasing end-to-end data work, from cleaning messy real-world datasets to writing analytical queries that cover actionable business insights.
 
