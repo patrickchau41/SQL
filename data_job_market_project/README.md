@@ -157,6 +157,9 @@ ORDER BY
     avg_salary DESC
 LIMIT 25
 ```
+
+![Top 25 Highest Paying Skills for Data Analysts](assets/top_paying_skills.png)
+
 ## Top 25 Highest Paying Skills for Data Analysts
 
 | Skill | Average Salary (USD) |
@@ -239,6 +242,9 @@ ORDER BY
     demand_count DESC
 LIMIT 25;
 ```
+
+![Optimal Skills for Data Analysts](assets/optimal_skills.png)
+
 ## Optimal Skills for Data Analysts (High Demand + High Salary)
 
 | Skill | Demand (Job Postings) | Average Salary (USD) |
