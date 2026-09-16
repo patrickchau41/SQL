@@ -1,10 +1,10 @@
-# SQL Projects Portfolio
+# SQL Portfolio Projects
 
 A collection of SQL projects showcasing end-to-end data work, from cleaning messy real-world datasets to writing analytical queries that cover actionable business insights.
 
 ## Projects
 
-### [Data Job Market Analysis](/data_analysis_sql_project)
+### [Data Job Market Analysis](/data_job_market_project)
 Explores top-paying data analyst roles, in-demand skills, and where high demand meets high salary in the data analytics job market.
 **Techniques:** CTEs, joins, aggregations, ranking logic
 
