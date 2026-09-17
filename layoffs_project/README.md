@@ -1,7 +1,7 @@
 # Introduction
 In recent years, global layoffs have nearly swept through each and every industry. In this analysis, we dive through this dataset of global tech layoffs to uncover which industries, countries, and companies were hit the hardest, how layoffs trend over time, and in what areas the most severe cuts occurred. 
 
-Dive through my SQL queries here: [global_tech_layoffs_project folder](/SQL%20Work/layoffs%20project/global_tech_layoffs_project/)
+Dive through my SQL queries here: [queries folder](queries)
 
 # Background
 Driven by curiosity about the recent wave of layoffs across the tech industry, this analysis is intended to find meaningful trends amongst a real-world dataset, where I can turn raw and messy data into a reliable source for analysis. Ultimately, I want to help job seekers evaluate the relative risk of different industries, company profiles, and geographies before accepting a role by using historical layoff patterns to identify where cuts are more frequent, more severe, or more likely to be total shutdowns.
