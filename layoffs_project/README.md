@@ -31,7 +31,7 @@ Before exploring my dataset through my analysis, the dataset needed necessary cl
 - Filled in missing ```industry``` values using other records from the same company
 - Removed rows with no usable layoff data (both ```total_laid_off``` and ```percentage_laid_off``` null)
 
-Fully cleaned script:[data_fully_cleaned](/SQL%20Work/layoffs%20project/csv%20results/cleaned_data.csv)
+Fully cleaned script: [0_data_cleaning.sql](global_tech_layoffs_project/0_data_cleaning.sql)
 
 # The Analysis
 Each query in this analysis targets a specific question about global layoffs. Here is how I approached each one:
