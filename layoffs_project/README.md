@@ -1,14 +1,12 @@
-# Introduction
+# The Overview
 
 In recent years, global layoffs have nearly swept through each and every industry. In this analysis, we dive through this dataset of global tech layoffs to uncover which industries, countries, and companies were hit the hardest, how layoffs trend over time, and in what areas the most severe cuts occurred.
 
-Dive through my SQL queries here: [queries folder](queries)
-
-# Background
-
 Driven by curiosity about the recent wave of layoffs across the tech industry, this analysis is intended to find meaningful trends amongst a real-world dataset, where I can turn raw and messy data into a reliable source for analysis. Ultimately, I want to help job seekers evaluate the relative risk of different industries, company profiles, and geographies before accepting a role by using historical layoff patterns to identify where cuts are more frequent, more severe, or more likely to be total shutdowns.
 
-### Questions I Answered:
+Dive through my SQL queries here: [queries folder](queries)
+
+# The Questions
 
 Throughout this project, I aim to answer these questions through my SQL queries:
 1. What is the largest single layoff event, and which companies laid off 100% of their staff?
@@ -168,7 +166,7 @@ View the full query here: [4_layoffs_over_time.sql](queries/4_layoffs_over_time.
 
 ### Insights
 
-- Layoffs represented two kinds of waves. The first, represented in **March-May 2020**, was a short-lived, but it was a sharp spike tied to the existence of COVID-19.
+- Layoffs represented two kinds of waves. The first, represented in **March-May 2020**, was short-lived, but it was a sharp spike tied to the existence of COVID-19.
 - The second, and bigger wave began during the middle of 2022 and peaked dramatically in **January 2023 at 84,714**, which represents itself as the highest month in the dataset. This is more than triple any month during the 2020 COVID wave.
 - Of the **383,159 total layoffs** recorded, roughly **89%** occurred within the 12-month span from April 2022 through March 2023, showing that the more recent wave of tech layoffs has been both larger in scale and more sustained than the initial pandemic-driven cuts.
 - The single largest month-over-month jump in the dataset occurred from December 2022 to January 2023, which is a **+74,385 increase in one month**, nearly matching the entire 2020 COVID wave's total (80,998) in a single month's jump.
