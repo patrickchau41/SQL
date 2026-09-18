@@ -56,7 +56,7 @@ View the full query here: [1_top_paying_jobs.sql](queries/1_top_paying_jobs.sql)
 
 ### Results
 
-![Top 10 Highest Paying Data Analyst Jobs](assets/1_top_paying_jobs.png)
+![Top 10 Highest Paying Data Analyst Jobs](assets/01_top_paying_jobs.png)
 
 | Job Title | Company | Salary (USD) |
 |---|---|---|
@@ -116,7 +116,7 @@ View the full query here: [2_top_skills.sql](queries/2_top_skills.sql)
 
 ### Results
 
-![Top Skills](assets/2_top_skills.png)
+![Top Skills](assets/02_top_skills.png)
 
 The breakdown of the most demanded skills for the top 10 highest paying data analyst jobs in 2023:
 
@@ -153,7 +153,7 @@ View the full query here: [3_in_demand_skills.sql](queries/3_in_demand_skills.sq
 
 ### Results
 
-![In Demand Skills](assets/3_in_demand_skills.png)
+![In Demand Skills](assets/03_in_demand_skills.png)
 
 The breakdown of the most demanded skills for data analysts in 2023:
 
@@ -188,7 +188,7 @@ View the full query here: [4_top_paying_skills.sql](queries/4_top_paying_skills.
 
 ### Results
 
-![Top 25 Highest Paying Skills for Data Analysts](assets/4_top_paying_skills.png)
+![Top 25 Highest Paying Skills for Data Analysts](assets/04_top_paying_skills.png)
 
 Average salaries based on job postings from 2023. SVN represents a significant outlier likely driven by a small number of exceptionally high-paying roles.
 
@@ -248,7 +248,7 @@ View the full query here: [5_most_optimal_skills.sql](queries/5_most_optimal_ski
 
 ### Results
 
-![Optimal Skills for Data Analysts](assets/5_optimal_skills.png)
+![Optimal Skills for Data Analysts](assets/05_optimal_skills.png)
 
 Optimal skills are defined as those appearing in a meaningful number of job postings while commanding above-average compensation — representing the best return on learning investment.
 
